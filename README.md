@@ -48,5 +48,5 @@ Firstly link all the servelets, from making the model to linking it with the  Ba
 5. Here, it will directly take you to the local host url. 
   If not, then go to the given local url from your browser. 
   Local URL-> its for your system locally.
-  Where, Network URL-> it can connect about 5 devices that share the same network provider (ie you all 5 are connected to the same wifi).
+  Where, Network URL-> it can connect about 5 devices that share the same wifi network (ie you    all the 5 users are connected to the same wifi).
  

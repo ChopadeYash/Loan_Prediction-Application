@@ -2,7 +2,7 @@ import streamlit as st
 from PIL import Image
 import pickle
 
-model = pickle.load(open('C:/Users/HP/Dropbox/PC/Documents/Loan_Prediction_Streamlit_Application/Model/ML_Model.pkl', 'rb'))
+model = pickle.load(open('C:/Users/HP/Dropbox/PC/Desktop/Projects/Loan_Prediction_Streamlit_Application/Model/ML_Model.pkl', 'rb'))
 
 def run():
     img1 = Image.open('bank.png')
